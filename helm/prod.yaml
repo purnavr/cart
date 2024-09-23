@@ -1,3 +1,11 @@
 component: cart
 params: "REDIS_HOST:prod.elasticache.endpoint,CATALOGUE_HOST:catalogue,CATALOGUE_PORT:8080"
 
+#resources: {}
+  # limits:
+  #   cpu: 100m
+  #   memory: 128Mi
+  # requests:
+  #   cpu: 100m
+#   memory: 256Mi
+
